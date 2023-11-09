@@ -1,4 +1,4 @@
-# <span style="color:#ff5733">Spotify</span>
+# <span style="color:#00FA9A">Spotify</span>
 
 ### Utilizando a API do Spotify com a biblioteca spotipy criei um script python para receber os dados diretamente no power e criar o dashbard de discografia de algumas bandas que tive oportunidade ir ao shows.
 
