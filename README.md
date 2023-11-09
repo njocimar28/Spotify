@@ -1,7 +1,8 @@
 # <span style="color:#00FA9A">Spotify</span> [<img src="https://github.com/njocimar28/image/blob/4db818760e68ea1ae7fca2939145576f88a1af49/5ece5029123d6d0004ce5f8b.png" width="50">](https://github.com/njocimar28/image/blob/4db818760e68ea1ae7fca2939145576f88a1af49/5ece5029123d6d0004ce5f8b.png)
 
+### Utilizando a API do Spotify com a biblioteca spotipy criei um script python para receber os dados diretamente no Power BI e criar o dashbard de discografia de algumas bandas que tive oportunidade ir ao shows.
 [<img src="https://github.com/njocimar28/image/blob/4db818760e68ea1ae7fca2939145576f88a1af49/eb8dc9b34d67dcd5895c32467d3e24e3.gif" width="200">](https://github.com/njocimar28/image/blob/4db818760e68ea1ae7fca2939145576f88a1af49/eb8dc9b34d67dcd5895c32467d3e24e3.gif)
-### Utilizando a API do Spotify com a biblioteca spotipy criei um script python para receber os dados diretamente no power e criar o dashbard de discografia de algumas bandas que tive oportunidade ir ao shows.
+
 
 ## Discografia
 #### [Discografia.py](https://github.com/njocimar28/Spotify/blob/6d43c6e3bd89f4d23c1fdb05516f8d6a3a99539b/Discografia%20spotify.py)
